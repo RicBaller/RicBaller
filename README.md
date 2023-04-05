@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RicBaller
 - 👀 I’m interested in webdevelopment, hostinginfrastructure and SaaS
 - 🌱 I’m currently learning PHP and SQL
-- 📫 How to reach me: https://rickballer.com
+- 📫 How to reach me: https://rbstudios.nl
