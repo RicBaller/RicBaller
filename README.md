@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RicBaller
 - 👀 I’m interested in webdevelopment, hostinginfrastructure and SaaS
-- ⭐ I'm coding in HTML, PHP, CSS, SQL and JavaScript
-- 🌱 I’m currently learning PHP and JavaScript
-- 📫 How to reach me: https://rbstudios.nl
+- ⭐ I'm coding in HTML, PHP, CSS, SQL, JavaScript, Python
+- 🌱 I’m currently learning Java and JavaScript
+- 📫 How to reach me: rick@rbstudios.nl
