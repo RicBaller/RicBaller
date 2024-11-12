@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RicBaller
 - 👀 I’m interested in webdevelopment, hostinginfrastructure and SaaS
-- ⭐ I'm coding in HTML, PHP, CSS, SQL, JavaScript, Python
+- ⭐ I'm coding in Java, SQL and Weblanguages
+- 🌐 i use framerworks like Angular, Spring Boot and React
 - 🌱 I’m currently learning Java and JavaScript
 - 📫 How to reach me: rick@rbstudios.nl
